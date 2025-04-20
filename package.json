@@ -1,0 +1,34 @@
+{
+  "name": "netrunner-database",
+  "version": "0.0.1",
+  "description": "《矩阵潜袭》数据库生成工具",
+  "main": "./build/index.js",
+  "type": "module",
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "build:release": "npm run clean && tsc -p tsconfig.release.json",
+    "clean": "rimraf dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eric03742/netrunner-database.git"
+  },
+  "keywords": [
+    "Netrunner",
+    "MySQL",
+    "Database"
+  ],
+  "author": {
+    "name": "Eric03742",
+    "email": "eric03742@foxmail.com",
+    "url": "https://github.com/eric03742"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eric03742/netrunner-database/issues"
+  },
+  "homepage": "https://github.com/eric03742/netrunner-database#readme",
+  "engines": {
+    "node": ">= 22.11 < 23"
+  }
+}
