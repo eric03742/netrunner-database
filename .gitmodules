@@ -1,0 +1,6 @@
+[submodule "data/Oracle"]
+	path = data/Oracle
+	url = https://github.com/NetrunnerDB/netrunner-cards-json.git
+[submodule "data/Locale"]
+	path = data/Locale
+	url = https://github.com/NetrunnerCN/netrunner-card-text-Chinese.git
