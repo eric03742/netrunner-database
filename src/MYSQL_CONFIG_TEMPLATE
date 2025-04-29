@@ -1,0 +1,9 @@
+// RENAME THIS FILE TO 'config.json' BEFORE BUILD
+
+{
+  "host": "MYSQL_HOST",
+  "port": 3306,
+  "username": "MYSQL_USERNAME",
+  "password": "MYSQL_PASSWORD",
+  "database": "MYSQL_DATABASE"
+}
