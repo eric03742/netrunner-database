@@ -1,6 +1,6 @@
 {
   "name": "netrunner-database",
-  "version": "0.9.0",
+  "version": "1.0.0",
   "description": "《矩阵潜袭》数据库生成工具",
   "type": "module",
   "scripts": {
