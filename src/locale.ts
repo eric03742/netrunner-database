@@ -1,12 +1,10 @@
 import fs from "fs/promises";
 import log from "loglevel";
 import { parse } from "csv-parse/sync";
-
-import { AppDataSource } from "./data-source.js";
 import {
     SideEntity, FactionEntity, TypeEntity, SubtypeEntity,
     SettypeEntity, CycleEntity, SetEntity,
-    FormatEntity, CardEntity, PrintingEntity,
+    FormatEntity, CardEntity, PrintingEntity, NetrunnerDataSource,
 } from "@eric03742/netrunner-entities";
 
 
@@ -82,10 +80,14 @@ interface PrintingSchema extends BaseSchema {
     readonly flavor: string;
 }
 
+
+const database = "result/netrunner.sqlite";
+const AppDataSource = NetrunnerDataSource.create(database);
+
 async function initialize(): Promise<void> {
     log.setLevel(log.levels.INFO);
     await AppDataSource.initialize();
-    log.info("Database connected!");
+    log.info(`SQLite database '${database}' connected!`);
 }
 
 async function terminate(): Promise<void> {

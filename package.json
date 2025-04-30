@@ -1,14 +1,15 @@
 {
   "name": "netrunner-database",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "《矩阵潜袭》数据库生成工具",
   "type": "module",
   "scripts": {
     "build": "tsc -p tsconfig.json",
     "build:release": "npm run clean && tsc -p tsconfig.release.json",
-    "oracle": "node dist/oracle.js",
-    "locale": "node dist/locale.js",
+    "oracle": "node ./dist/oracle.js",
+    "locale": "node ./dist/locale.js",
     "start": "npm run oracle && npm run locale",
+    "migrate": "npm run migration:generate && npm run migration:run",
     "clean": "rimraf dist",
     "migration:generate": "npx typeorm-ts-node-esm migration:generate ./migrations/transaction -d src/data-source.ts",
     "migration:run": "npx typeorm-ts-node-esm migration:run -d src/data-source.ts && rm migrations/*.ts"
@@ -36,10 +37,10 @@
     "node": ">= 22.11 < 23"
   },
   "dependencies": {
-    "@eric03742/netrunner-entities": "^0.5.1",
+    "@eric03742/netrunner-entities": "^1.0.0",
+    "better-sqlite3": "^11.9.1",
     "csv-parse": "^5.6.0",
     "loglevel": "^1.9.2",
-    "mysql2": "^3.14.0",
     "reflect-metadata": "^0.2.2",
     "tslib": "^2.8.1",
     "typeorm": "^0.3.22"

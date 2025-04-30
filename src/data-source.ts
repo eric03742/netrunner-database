@@ -1,4 +1,3 @@
-import connection from "./config.json" with { type: "json" };
 import { DataSource } from "typeorm";
 import {
     SideEntity, FactionEntity, TypeEntity, SubtypeEntity,
@@ -8,8 +7,8 @@ import {
 } from "@eric03742/netrunner-entities";
 
 export const AppDataSource = new DataSource({
-    ...connection,
-    type: "mysql",
+    database: "result/netrunner.sqlite",
+    type: "better-sqlite3",
     logging: ["error", "warn", "info", "log", "migration"],
     entities: [
         SideEntity, FactionEntity, TypeEntity, SubtypeEntity,
@@ -18,4 +17,7 @@ export const AppDataSource = new DataSource({
         CardEntity, PrintingEntity, RulingEntity
     ],
     migrations: ["./migrations/*.ts"],
+    prepareDatabase: db => {
+        db.pragma('journal_mode = WAL');
+    }
 });

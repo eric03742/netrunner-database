@@ -1,13 +1,11 @@
 import fs from "fs/promises";
 import path from "path";
 import log from "loglevel";
-
-import { AppDataSource } from "./data-source.js";
 import {
     SideEntity, FactionEntity, TypeEntity, SubtypeEntity,
     SettypeEntity, CycleEntity, SetEntity,
     FormatEntity, PoolEntity, RestrictionEntity, SnapshotEntity,
-    CardEntity, PrintingEntity, RulingEntity,
+    CardEntity, PrintingEntity, RulingEntity, NetrunnerDataSource,
 } from "@eric03742/netrunner-entities";
 
 
@@ -248,10 +246,13 @@ interface RulingSchema extends BaseSchema {
 }
 
 
+const database = "result/netrunner.sqlite";
+const AppDataSource = NetrunnerDataSource.create(database);
+
 async function initialize(): Promise<void> {
     log.setLevel(log.levels.INFO);
     await AppDataSource.initialize();
-    log.info("Database connected!");
+    log.info(`SQLite database '${database}' connected!`);
 }
 
 async function terminate(): Promise<void> {

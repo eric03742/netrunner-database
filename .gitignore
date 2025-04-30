@@ -137,5 +137,3 @@ dist
 
 # Jetbrains Configurations
 .idea/
-
-src/config.json
