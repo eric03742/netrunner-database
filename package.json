@@ -6,13 +6,14 @@
   "scripts": {
     "build": "tsc -p tsconfig.json",
     "build:release": "npm run clean && tsc -p tsconfig.release.json",
+    "prepare": "mkdir -p migrations && mkdir -p result",
+    "start": "npm run oracle && npm run locale && echo $(date) >> LAST_UPDATE.txt",
     "oracle": "node ./dist/oracle.js",
     "locale": "node ./dist/locale.js",
-    "start": "npm run oracle && npm run locale",
     "migrate": "npm run migration:generate && npm run migration:run",
-    "clean": "rimraf dist",
     "migration:generate": "npx typeorm-ts-node-esm migration:generate ./migrations/transaction -d src/data-source.ts",
-    "migration:run": "npx typeorm-ts-node-esm migration:run -d src/data-source.ts && rm migrations/*.ts"
+    "migration:run": "npx typeorm-ts-node-esm migration:run -d src/data-source.ts && rm migrations/*.ts",
+    "clean": "rimraf dist"
   },
   "repository": {
     "type": "git",
@@ -20,7 +21,7 @@
   },
   "keywords": [
     "Netrunner",
-    "MySQL",
+    "SQLite",
     "Database"
   ],
   "author": {

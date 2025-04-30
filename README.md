@@ -8,6 +8,18 @@
 
 ## 使用
 
+在使用前请确保拉取所有子仓库：
+
+```shell
+git submodule update --init
+```
+
+准备使用的目录：
+
+```shell
+npm run prepare
+```
+
 生成数据库表结构：
 
 ```shell
