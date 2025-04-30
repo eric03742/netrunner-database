@@ -33,6 +33,10 @@ npm run build:release
 npm run start
 ```
 
+## 下载
+
+你可以在 [这里](https://github.com/eric03742/netrunner-database/releases/latest/download/netrunner.sqlite) 下载最新的SQLite数据库文件。
+
 ## 数据源
 
 卡牌数据来自 [NetrunnerDB](https://netrunnerdb.com/) API，中文文本数据来自 [NetrunnerCN/netrunner-card-text-Chinese](https://github.com/NetrunnerCN/netrunner-card-text-Chinese)。
