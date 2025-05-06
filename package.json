@@ -7,7 +7,7 @@
     "build": "tsc -p tsconfig.json",
     "build:release": "npm run clean && tsc -p tsconfig.release.json",
     "prepare": "mkdir -p migrations && mkdir -p result",
-    "start": "npm run oracle && npm run locale && echo $(date) >> LAST_UPDATE.txt",
+    "start": "npm run oracle && npm run locale && echo $(date) > LAST_UPDATE.txt",
     "oracle": "node ./dist/oracle.js",
     "locale": "node ./dist/locale.js",
     "migrate": "npm run migration:generate && npm run migration:run",
@@ -34,11 +34,8 @@
     "url": "https://github.com/eric03742/netrunner-database/issues"
   },
   "homepage": "https://github.com/eric03742/netrunner-database#readme",
-  "engines": {
-    "node": ">= 22.11 < 23"
-  },
   "dependencies": {
-    "@eric03742/netrunner-entities": "^1.0.0",
+    "@eric03742/netrunner-entities": "^1.1.0",
     "better-sqlite3": "^11.9.1",
     "csv-parse": "^5.6.0",
     "loglevel": "^1.9.2",
