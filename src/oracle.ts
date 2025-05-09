@@ -6,7 +6,7 @@ import {
     SettypeEntity, CycleEntity, SetEntity,
     FormatEntity, PoolEntity, RestrictionEntity, SnapshotEntity,
     CardEntity, PrintingEntity, RulingEntity, NetrunnerDataSource,
-} from "@eric03742/netrunner-entities";
+} from "netrunner-entities";
 
 
 /** 英文源数据通用字段 */

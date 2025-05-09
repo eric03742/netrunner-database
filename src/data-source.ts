@@ -4,7 +4,7 @@ import {
     SettypeEntity, CycleEntity, SetEntity,
     FormatEntity, PoolEntity, RestrictionEntity, SnapshotEntity,
     CardEntity, PrintingEntity, RulingEntity,
-} from "@eric03742/netrunner-entities";
+} from "netrunner-entities";
 
 export const AppDataSource = new DataSource({
     database: "result/netrunner.sqlite",

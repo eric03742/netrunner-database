@@ -5,7 +5,7 @@ import {
     SideEntity, FactionEntity, TypeEntity, SubtypeEntity,
     SettypeEntity, CycleEntity, SetEntity,
     FormatEntity, CardEntity, PrintingEntity, NetrunnerDataSource,
-} from "@eric03742/netrunner-entities";
+} from "netrunner-entities";
 
 
 /** 本地化数据通用字段 */

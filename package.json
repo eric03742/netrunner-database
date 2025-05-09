@@ -35,10 +35,10 @@
   },
   "homepage": "https://github.com/eric03742/netrunner-database#readme",
   "dependencies": {
-    "@eric03742/netrunner-entities": "^1.1.0",
     "better-sqlite3": "^11.9.1",
     "csv-parse": "^5.6.0",
     "loglevel": "^1.9.2",
+    "netrunner-entities": "^1.0.0",
     "reflect-metadata": "^0.2.2",
     "tslib": "^2.8.1",
     "typeorm": "^0.3.22"
