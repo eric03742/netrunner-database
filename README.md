@@ -39,7 +39,7 @@ npm run start
 
 ## 数据源
 
-卡牌数据来自 [NetrunnerDB](https://netrunnerdb.com/) API，中文文本数据来自 [NetrunnerCN/netrunner-card-text-Chinese](https://github.com/NetrunnerCN/netrunner-card-text-Chinese)。
+卡牌数据来自 [NetrunnerDB](https://netrunnerdb.com/) API，中文文本数据来自 [netrunner-card-text-Chinese](https://github.com/eric03742/netrunner-card-text-Chinese)。
 
 本仓库及其开发者与 Fantasy Flight Games、Wizards of the Coast、Null Signal Games、NetrunnerDB 均无关联。
 
