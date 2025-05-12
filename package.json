@@ -1,6 +1,6 @@
 {
   "name": "netrunner-database",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "《矩阵潜袭》数据库生成工具",
   "scripts": {
     "build": "tsc -p tsconfig.json",
