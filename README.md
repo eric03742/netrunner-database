@@ -6,6 +6,16 @@
 
 `netrunner-database` 是用于生成《矩阵潜袭》中文卡牌数据库并以 SQLite 数据库为载体保存的工具。
 
+## 数据源
+
+你可以在项目目录中的 `result` 文件夹下查看最新版本的数据库文件。
+
+本项目使用 [netrunner-database](https://github.com/eric03742/netrunner-database) 生成的 SQLite 数据库文件作为数据来源。
+
+卡牌数据来自 [NetrunnerDB](https://netrunnerdb.com/) 及其 GitHub 仓库 [netrunner-card-json](https://github.com/NetrunnerDB/netrunner-cards-json)，中文文本数据来自 [netrunner-card-text-Chinese](https://github.com/eric03742/netrunner-card-text-Chinese)。
+
+本仓库及其开发者与 Fantasy Flight Games、Wizards of the Coast、Null Signal Games、NetrunnerDB 均无关联。
+
 ## 使用
 
 在使用前请确保拉取所有子仓库：
@@ -32,16 +42,6 @@ npm run migrate
 npm run build:release
 npm run start
 ```
-
-## 下载
-
-你可以在 [这里](https://github.com/eric03742/netrunner-database/releases/latest/download/netrunner.sqlite) 下载最新的SQLite数据库文件。
-
-## 数据源
-
-卡牌数据来自 [NetrunnerDB](https://netrunnerdb.com/) API，中文文本数据来自 [netrunner-card-text-Chinese](https://github.com/eric03742/netrunner-card-text-Chinese)。
-
-本仓库及其开发者与 Fantasy Flight Games、Wizards of the Coast、Null Signal Games、NetrunnerDB 均无关联。
 
 ## 许可证
 

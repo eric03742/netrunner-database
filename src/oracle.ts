@@ -5,8 +5,11 @@ import {
     SideEntity, FactionEntity, TypeEntity, SubtypeEntity,
     SettypeEntity, CycleEntity, SetEntity,
     FormatEntity, PoolEntity, RestrictionEntity, SnapshotEntity,
-    CardEntity, PrintingEntity, RulingEntity, NetrunnerDataSource,
+    CardEntity, PrintingEntity, RulingEntity,
 } from "netrunner-entities";
+
+
+import { AppDataSource } from "./data-source";
 
 
 /** 英文源数据通用字段 */
@@ -246,13 +249,10 @@ interface RulingSchema extends BaseSchema {
 }
 
 
-const database = "result/netrunner.sqlite";
-const AppDataSource = NetrunnerDataSource.create(database);
-
 async function initialize(): Promise<void> {
     log.setLevel(log.levels.INFO);
     await AppDataSource.initialize();
-    log.info(`SQLite database '${database}' connected!`);
+    log.info(`SQLite database 'netrunner.sqlite' connected!`);
 }
 
 async function terminate(): Promise<void> {

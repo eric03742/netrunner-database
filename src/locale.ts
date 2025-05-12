@@ -4,8 +4,10 @@ import { parse } from "csv-parse/sync";
 import {
     SideEntity, FactionEntity, TypeEntity, SubtypeEntity,
     SettypeEntity, CycleEntity, SetEntity,
-    FormatEntity, CardEntity, PrintingEntity, NetrunnerDataSource,
+    FormatEntity, CardEntity, PrintingEntity,
 } from "netrunner-entities";
+
+import { AppDataSource } from "./data-source";
 
 
 /** 本地化数据通用字段 */
@@ -81,13 +83,10 @@ interface PrintingSchema extends BaseSchema {
 }
 
 
-const database = "result/netrunner.sqlite";
-const AppDataSource = NetrunnerDataSource.create(database);
-
 async function initialize(): Promise<void> {
     log.setLevel(log.levels.INFO);
     await AppDataSource.initialize();
-    log.info(`SQLite database '${database}' connected!`);
+    log.info(`SQLite database 'netrunner.sqlite' connected!`);
 }
 
 async function terminate(): Promise<void> {
