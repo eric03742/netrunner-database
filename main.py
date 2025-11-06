@@ -1,10 +1,11 @@
-from transformer import save_side, save_faction, save_type
+from transformer import *
 
 
 def main():
     save_side()
     save_faction()
     save_type()
+    save_subtype()
 
 
 if __name__ == "__main__":

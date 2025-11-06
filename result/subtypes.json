@@ -1,0 +1,532 @@
+[
+  {
+    "codename": "academic",
+    "oracle_name": "Academic",
+    "locale_name": "学术"
+  },
+  {
+    "codename": "ai",
+    "oracle_name": "AI",
+    "locale_name": "智能模块"
+  },
+  {
+    "codename": "ap",
+    "oracle_name": "AP",
+    "locale_name": "杀伤"
+  },
+  {
+    "codename": "advertisement",
+    "oracle_name": "Advertisement",
+    "locale_name": "广告"
+  },
+  {
+    "codename": "alliance",
+    "oracle_name": "Alliance",
+    "locale_name": "联盟"
+  },
+  {
+    "codename": "ambush",
+    "oracle_name": "Ambush",
+    "locale_name": "伏击"
+  },
+  {
+    "codename": "barrier",
+    "oracle_name": "Barrier",
+    "locale_name": "屏障"
+  },
+  {
+    "codename": "beanstalk",
+    "oracle_name": "Beanstalk",
+    "locale_name": "豆茎"
+  },
+  {
+    "codename": "bioroid",
+    "oracle_name": "Bioroid",
+    "locale_name": "生化人"
+  },
+  {
+    "codename": "black_ops",
+    "oracle_name": "Black Ops",
+    "locale_name": "黑色行动"
+  },
+  {
+    "codename": "bomb",
+    "oracle_name": "Bomb",
+    "locale_name": "炸弹"
+  },
+  {
+    "codename": "caissa",
+    "oracle_name": "Caïssa",
+    "locale_name": "西洋棋"
+  },
+  {
+    "codename": "cast",
+    "oracle_name": "Cast",
+    "locale_name": "节目"
+  },
+  {
+    "codename": "character",
+    "oracle_name": "Character",
+    "locale_name": "人物"
+  },
+  {
+    "codename": "chip",
+    "oracle_name": "Chip",
+    "locale_name": "芯片"
+  },
+  {
+    "codename": "clan",
+    "oracle_name": "Clan",
+    "locale_name": "部落"
+  },
+  {
+    "codename": "clone",
+    "oracle_name": "Clone",
+    "locale_name": "克隆体"
+  },
+  {
+    "codename": "cloud",
+    "oracle_name": "Cloud",
+    "locale_name": "云"
+  },
+  {
+    "codename": "code_gate",
+    "oracle_name": "Code Gate",
+    "locale_name": "门禁"
+  },
+  {
+    "codename": "companion",
+    "oracle_name": "Companion",
+    "locale_name": "同伴"
+  },
+  {
+    "codename": "condition",
+    "oracle_name": "Condition",
+    "locale_name": "状态"
+  },
+  {
+    "codename": "connection",
+    "oracle_name": "Connection",
+    "locale_name": "人脉"
+  },
+  {
+    "codename": "console",
+    "oracle_name": "Console",
+    "locale_name": "控制台"
+  },
+  {
+    "codename": "consumer_grade",
+    "oracle_name": "Consumer-grade",
+    "locale_name": "消费级"
+  },
+  {
+    "codename": "corp",
+    "oracle_name": "Corp",
+    "locale_name": "公司"
+  },
+  {
+    "codename": "corporation",
+    "oracle_name": "Corporation",
+    "locale_name": "公司"
+  },
+  {
+    "codename": "current",
+    "oracle_name": "Current",
+    "locale_name": "局势"
+  },
+  {
+    "codename": "cybernetic",
+    "oracle_name": "Cybernetic",
+    "locale_name": "义体"
+  },
+  {
+    "codename": "cyborg",
+    "oracle_name": "Cyborg",
+    "locale_name": "半机械人"
+  },
+  {
+    "codename": "daemon",
+    "oracle_name": "Daemon",
+    "locale_name": "后台"
+  },
+  {
+    "codename": "decoder",
+    "oracle_name": "Decoder",
+    "locale_name": "解码模块"
+  },
+  {
+    "codename": "deep_net",
+    "oracle_name": "Deep Net",
+    "locale_name": "深网"
+  },
+  {
+    "codename": "deflector",
+    "oracle_name": "Deflector",
+    "locale_name": "偏导器"
+  },
+  {
+    "codename": "department",
+    "oracle_name": "Department",
+    "locale_name": "子部门"
+  },
+  {
+    "codename": "destroyer",
+    "oracle_name": "Destroyer",
+    "locale_name": "毁灭者"
+  },
+  {
+    "codename": "deva",
+    "oracle_name": "Deva",
+    "locale_name": "提婆"
+  },
+  {
+    "codename": "digital",
+    "oracle_name": "Digital",
+    "locale_name": "数字体"
+  },
+  {
+    "codename": "directive",
+    "oracle_name": "Directive",
+    "locale_name": "指令"
+  },
+  {
+    "codename": "division",
+    "oracle_name": "Division",
+    "locale_name": "部门"
+  },
+  {
+    "codename": "double",
+    "oracle_name": "Double",
+    "locale_name": "双重"
+  },
+  {
+    "codename": "enforcer",
+    "oracle_name": "Enforcer",
+    "locale_name": "执法者"
+  },
+  {
+    "codename": "executive",
+    "oracle_name": "Executive",
+    "locale_name": "主管"
+  },
+  {
+    "codename": "expansion",
+    "oracle_name": "Expansion",
+    "locale_name": "扩张"
+  },
+  {
+    "codename": "expendable",
+    "oracle_name": "Expendable",
+    "locale_name": "可消耗"
+  },
+  {
+    "codename": "facility",
+    "oracle_name": "Facility",
+    "locale_name": "设施"
+  },
+  {
+    "codename": "fracter",
+    "oracle_name": "Fracter",
+    "locale_name": "分解模块"
+  },
+  {
+    "codename": "g_mod",
+    "oracle_name": "G-mod",
+    "locale_name": "转基因人"
+  },
+  {
+    "codename": "gear",
+    "oracle_name": "Gear",
+    "locale_name": "装备"
+  },
+  {
+    "codename": "genetics",
+    "oracle_name": "Genetics",
+    "locale_name": "基因"
+  },
+  {
+    "codename": "government",
+    "oracle_name": "Government",
+    "locale_name": "政府"
+  },
+  {
+    "codename": "grail",
+    "oracle_name": "Grail",
+    "locale_name": "圣杯"
+  },
+  {
+    "codename": "gray_ops",
+    "oracle_name": "Gray Ops",
+    "locale_name": "灰色行动"
+  },
+  {
+    "codename": "harmonic",
+    "oracle_name": "Harmonic",
+    "locale_name": "和声"
+  },
+  {
+    "codename": "hostile",
+    "oracle_name": "Hostile",
+    "locale_name": "敌对"
+  },
+  {
+    "codename": "icebreaker",
+    "oracle_name": "Icebreaker",
+    "locale_name": "破解器"
+  },
+  {
+    "codename": "illicit",
+    "oracle_name": "Illicit",
+    "locale_name": "非法"
+  },
+  {
+    "codename": "industrial",
+    "oracle_name": "Industrial",
+    "locale_name": "工业"
+  },
+  {
+    "codename": "initiative",
+    "oracle_name": "Initiative",
+    "locale_name": "原创"
+  },
+  {
+    "codename": "job",
+    "oracle_name": "Job",
+    "locale_name": "工作"
+  },
+  {
+    "codename": "killer",
+    "oracle_name": "Killer",
+    "locale_name": "断路模块"
+  },
+  {
+    "codename": "link",
+    "oracle_name": "Link",
+    "locale_name": "中转器"
+  },
+  {
+    "codename": "location",
+    "oracle_name": "Location",
+    "locale_name": "场所"
+  },
+  {
+    "codename": "lockdown",
+    "oracle_name": "Lockdown",
+    "locale_name": "封锁"
+  },
+  {
+    "codename": "mandate",
+    "oracle_name": "Mandate",
+    "locale_name": "命令"
+  },
+  {
+    "codename": "megacorp",
+    "oracle_name": "Megacorp",
+    "locale_name": "巨型公司"
+  },
+  {
+    "codename": "mod",
+    "oracle_name": "Mod",
+    "locale_name": "改造"
+  },
+  {
+    "codename": "morph",
+    "oracle_name": "Morph",
+    "locale_name": "变形"
+  },
+  {
+    "codename": "mythic",
+    "oracle_name": "Mythic",
+    "locale_name": "神秘"
+  },
+  {
+    "codename": "next",
+    "oracle_name": "NEXT",
+    "locale_name": "次级"
+  },
+  {
+    "codename": "natural",
+    "oracle_name": "Natural",
+    "locale_name": "原生人"
+  },
+  {
+    "codename": "observer",
+    "oracle_name": "Observer",
+    "locale_name": "观察者"
+  },
+  {
+    "codename": "off_site",
+    "oracle_name": "Off-site",
+    "locale_name": "场外"
+  },
+  {
+    "codename": "orgcrime",
+    "oracle_name": "Orgcrime",
+    "locale_name": "黑社会"
+  },
+  {
+    "codename": "police_department",
+    "oracle_name": "Police Department",
+    "locale_name": "警局"
+  },
+  {
+    "codename": "political",
+    "oracle_name": "Political",
+    "locale_name": "政治"
+  },
+  {
+    "codename": "priority",
+    "oracle_name": "Priority",
+    "locale_name": "优先"
+  },
+  {
+    "codename": "psi",
+    "oracle_name": "Psi",
+    "locale_name": "灵能"
+  },
+  {
+    "codename": "public",
+    "oracle_name": "Public",
+    "locale_name": "公开"
+  },
+  {
+    "codename": "region",
+    "oracle_name": "Region",
+    "locale_name": "区域"
+  },
+  {
+    "codename": "remote",
+    "oracle_name": "Remote",
+    "locale_name": "远程"
+  },
+  {
+    "codename": "reprisal",
+    "oracle_name": "Reprisal",
+    "locale_name": "报复"
+  },
+  {
+    "codename": "research",
+    "oracle_name": "Research",
+    "locale_name": "研究"
+  },
+  {
+    "codename": "ritzy",
+    "oracle_name": "Ritzy",
+    "locale_name": "豪华"
+  },
+  {
+    "codename": "run",
+    "oracle_name": "Run",
+    "locale_name": "潜袭"
+  },
+  {
+    "codename": "sabotage",
+    "oracle_name": "Sabotage",
+    "locale_name": "破坏"
+  },
+  {
+    "codename": "security",
+    "oracle_name": "Security",
+    "locale_name": "防卫"
+  },
+  {
+    "codename": "security_protocol",
+    "oracle_name": "Security Protocol",
+    "locale_name": "安全协议"
+  },
+  {
+    "codename": "seedy",
+    "oracle_name": "Seedy",
+    "locale_name": "低劣"
+  },
+  {
+    "codename": "sensie",
+    "oracle_name": "Sensie",
+    "locale_name": "复感电影"
+  },
+  {
+    "codename": "sentry",
+    "oracle_name": "Sentry",
+    "locale_name": "警报"
+  },
+  {
+    "codename": "source",
+    "oracle_name": "Source",
+    "locale_name": "根源"
+  },
+  {
+    "codename": "stealth",
+    "oracle_name": "Stealth",
+    "locale_name": "隐匿"
+  },
+  {
+    "codename": "subsidiary",
+    "oracle_name": "Subsidiary",
+    "locale_name": "子公司"
+  },
+  {
+    "codename": "sysop",
+    "oracle_name": "Sysop",
+    "locale_name": "管理员"
+  },
+  {
+    "codename": "terminal",
+    "oracle_name": "Terminal",
+    "locale_name": "终止"
+  },
+  {
+    "codename": "tracer",
+    "oracle_name": "Tracer",
+    "locale_name": "追踪者"
+  },
+  {
+    "codename": "transaction",
+    "oracle_name": "Transaction",
+    "locale_name": "交易"
+  },
+  {
+    "codename": "trap",
+    "oracle_name": "Trap",
+    "locale_name": "陷阱"
+  },
+  {
+    "codename": "triple",
+    "oracle_name": "Triple",
+    "locale_name": "三重"
+  },
+  {
+    "codename": "trojan",
+    "oracle_name": "Trojan",
+    "locale_name": "木马"
+  },
+  {
+    "codename": "unorthodox",
+    "oracle_name": "Unorthodox",
+    "locale_name": "异类"
+  },
+  {
+    "codename": "unsubstantiated",
+    "oracle_name": "Unsubstantiated",
+    "locale_name": "未证实"
+  },
+  {
+    "codename": "vehicle",
+    "oracle_name": "Vehicle",
+    "locale_name": "载具"
+  },
+  {
+    "codename": "virtual",
+    "oracle_name": "Virtual",
+    "locale_name": "虚拟"
+  },
+  {
+    "codename": "virus",
+    "oracle_name": "Virus",
+    "locale_name": "病毒"
+  },
+  {
+    "codename": "weapon",
+    "oracle_name": "Weapon",
+    "locale_name": "武器"
+  }
+]
