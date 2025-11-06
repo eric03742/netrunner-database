@@ -4,7 +4,7 @@ from pydantic import BaseModel, ConfigDict
 class OracleBase(BaseModel):
     """英文源数据通用字段"""
 
-    model_config = ConfigDict(strict=True, frozen=True)
+    model_config = ConfigDict(strict=True, frozen=True, extra="forbid")
 
     id: str
     """唯一标识符"""
@@ -13,7 +13,7 @@ class OracleBase(BaseModel):
 class LocaleBase(BaseModel):
     """本地化数据通用字段"""
 
-    model_config = ConfigDict(strict=True, frozen=True)
+    model_config = ConfigDict(strict=True, frozen=True, extra="forbid")
 
     id: str
     """唯一标识符"""

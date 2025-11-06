@@ -1,0 +1,58 @@
+[
+  {
+    "codename": "booster_pack",
+    "oracle_name": "Booster Pack",
+    "locale_name": "增强包",
+    "oracle_desc": "A booster pack released as a subset of a larger release.",
+    "locale_desc": "作为大版本的子集发布的补充卡包。"
+  },
+  {
+    "codename": "campaign",
+    "oracle_name": "Campaign",
+    "locale_name": "战役",
+    "oracle_desc": "A campaign set not released for legal play.",
+    "locale_desc": "不可用于正式对战的战役卡包。"
+  },
+  {
+    "codename": "core",
+    "oracle_name": "Core",
+    "locale_name": "核心包",
+    "oracle_desc": "A core set, or set that makes up part of the core selection of cards.",
+    "locale_desc": "核心卡包，或从核心精选卡牌中挑选一部分组成的卡包。"
+  },
+  {
+    "codename": "data_pack",
+    "oracle_name": "Data Pack",
+    "locale_name": "数据包",
+    "oracle_desc": "The major releases of each cycle.",
+    "locale_desc": "每个循环中主要发布的卡包。"
+  },
+  {
+    "codename": "deluxe",
+    "oracle_name": "Deluxe",
+    "locale_name": "豪华包",
+    "oracle_desc": "A non-core set released in a big box.",
+    "locale_desc": "以大盒形式发布的非核心卡包。"
+  },
+  {
+    "codename": "draft",
+    "oracle_name": "Draft",
+    "locale_name": "草案",
+    "oracle_desc": "A draft-exclusive sets.",
+    "locale_desc": "草案专用卡包。"
+  },
+  {
+    "codename": "expansion",
+    "oracle_name": "Expansion",
+    "locale_name": "扩展",
+    "oracle_desc": "A miscellaneous set released for legal play.",
+    "locale_desc": "可用于正式对战的混合卡包。"
+  },
+  {
+    "codename": "promo",
+    "oracle_name": "Promo",
+    "locale_name": "宣传",
+    "oracle_desc": "A promotional set not released for legal play.",
+    "locale_desc": "不可用于正式对战的宣传卡包。"
+  }
+]

@@ -7,7 +7,8 @@ __all__ = [
     "save_side",
     "save_faction",
     "save_type",
-    "save_subtype"
+    "save_subtype",
+    "save_settype",
 ]
 
 
@@ -15,3 +16,4 @@ from .side import save_side
 from .faction import save_faction
 from .type import save_type
 from .subtype import save_subtype
+from .settype import save_settype

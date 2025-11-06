@@ -6,6 +6,7 @@ def main():
     save_faction()
     save_type()
     save_subtype()
+    save_settype()
 
 
 if __name__ == "__main__":
