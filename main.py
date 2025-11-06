@@ -8,6 +8,7 @@ def main():
     save_subtype()
     save_settype()
     save_cycle()
+    save_set()
 
 
 if __name__ == "__main__":
