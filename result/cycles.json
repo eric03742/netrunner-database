@@ -1,0 +1,198 @@
+[
+  {
+    "codename": "draft",
+    "oracle_name": "Draft",
+    "locale_name": "轮抽系列",
+    "position": 0,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "codename": "core_set",
+    "oracle_name": "Core Set",
+    "locale_name": "核心系列",
+    "position": 1,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "codename": "genesis",
+    "oracle_name": "Genesis",
+    "locale_name": "创纪元",
+    "position": 2,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "codename": "creation_and_control",
+    "oracle_name": "Creation and Control",
+    "locale_name": "创造与掌控",
+    "position": 3,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "codename": "spin",
+    "oracle_name": "Spin",
+    "locale_name": "扭曲真相",
+    "position": 4,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "codename": "honor_and_profit",
+    "oracle_name": "Honor and Profit",
+    "locale_name": "荣耀与利益",
+    "position": 5,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "codename": "lunar",
+    "oracle_name": "Lunar",
+    "locale_name": "月行",
+    "position": 6,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "codename": "order_and_chaos",
+    "oracle_name": "Order and Chaos",
+    "locale_name": "秩序与混乱",
+    "position": 7,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "codename": "sansan",
+    "oracle_name": "SanSan",
+    "locale_name": "圣加州",
+    "position": 8,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "codename": "data_and_destiny",
+    "oracle_name": "Data and Destiny",
+    "locale_name": "数据与命运",
+    "position": 9,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "codename": "mumbad",
+    "oracle_name": "Mumbad",
+    "locale_name": "孟巴德",
+    "position": 10,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "codename": "flashpoint",
+    "oracle_name": "Flashpoint",
+    "locale_name": "闪点",
+    "position": 11,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "codename": "red_sand",
+    "oracle_name": "Red Sand",
+    "locale_name": "红砂",
+    "position": 12,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "codename": "terminal_directive",
+    "oracle_name": "Terminal Directive",
+    "locale_name": "终极指令",
+    "position": 13,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "codename": "revised_core_set",
+    "oracle_name": "Revised Core Set",
+    "locale_name": "核心系列修订版",
+    "position": 20,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "codename": "kitara",
+    "oracle_name": "Kitara",
+    "locale_name": "基塔拉",
+    "position": 21,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "codename": "reign_and_reverie",
+    "oracle_name": "Reign and Reverie",
+    "locale_name": "统治与空想",
+    "position": 22,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "codename": "magnum_opus",
+    "oracle_name": "Magnum Opus",
+    "locale_name": "巨作",
+    "position": 23,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "codename": "napd_multiplayer",
+    "oracle_name": "NAPD Multiplayer",
+    "locale_name": "NAPD 多人模式",
+    "position": 24,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "codename": "system_core_2019",
+    "oracle_name": "System Core 2019",
+    "locale_name": "系统核心 2019",
+    "position": 25,
+    "released_by": "null_signal_games"
+  },
+  {
+    "codename": "ashes",
+    "oracle_name": "Ashes",
+    "locale_name": "余烬",
+    "position": 26,
+    "released_by": "null_signal_games"
+  },
+  {
+    "codename": "magnum_opus_reprint",
+    "oracle_name": "Magnum Opus Reprint",
+    "locale_name": "巨作重印版",
+    "position": 28,
+    "released_by": "null_signal_games"
+  },
+  {
+    "codename": "salvaged_memories",
+    "oracle_name": "Salvaged Memories",
+    "locale_name": "记忆寻回",
+    "position": 29,
+    "released_by": "null_signal_games"
+  },
+  {
+    "codename": "system_gateway",
+    "oracle_name": "System Gateway",
+    "locale_name": "核心网关",
+    "position": 30,
+    "released_by": "null_signal_games"
+  },
+  {
+    "codename": "system_update_2021",
+    "oracle_name": "System Update 2021",
+    "locale_name": "系统革新 2021",
+    "position": 31,
+    "released_by": "null_signal_games"
+  },
+  {
+    "codename": "borealis",
+    "oracle_name": "Borealis",
+    "locale_name": "北极光",
+    "position": 32,
+    "released_by": "null_signal_games"
+  },
+  {
+    "codename": "liberation",
+    "oracle_name": "Liberation",
+    "locale_name": "解放",
+    "position": 33,
+    "released_by": "null_signal_games"
+  },
+  {
+    "codename": "elevation",
+    "oracle_name": "Elevation",
+    "locale_name": "仰望",
+    "position": 34,
+    "released_by": "null_signal_games"
+  }
+]
