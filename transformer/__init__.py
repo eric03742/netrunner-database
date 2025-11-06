@@ -5,9 +5,11 @@ __description__ = "《矩阵潜袭》卡牌数据转换/处理/合并工具"
 
 __all__ = [
     "save_side",
-    "save_faction"
+    "save_faction",
+    "save_type"
 ]
 
 
 from .side import save_side
 from .faction import save_faction
+from .type import save_type
