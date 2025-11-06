@@ -1,0 +1,122 @@
+[
+  {
+    "codename": "adam",
+    "oracle_name": "Adam",
+    "locale_name": "亚当",
+    "oracle_desc": "",
+    "locale_desc": "",
+    "color": "A79C59",
+    "is_mini": true,
+    "side_codename": "runner"
+  },
+  {
+    "codename": "anarch",
+    "oracle_name": "Anarch",
+    "locale_name": "反叛者",
+    "oracle_desc": "It doesn’t have to be this way.\nAfter centuries of corporate control, the laws of the market seem as real and unbreakable as the laws of physics. When you can’t bear living “sensibly” anymore, there is no choice but to attempt the impossible. And sometimes, it works. It works because we’re desperate, it works because we’ve been lied to. It works because anything is possible.\nThe passions that drive Anarchs are as diverse as the disruptive tactics they employ. To the corp, they are the enemy no plan survives contact with. Anarchs are unpredictable, pushing their limits, they run for a better future.",
+    "locale_desc": "王侯将相，宁有种乎。\n在被公司控制了几个世纪之后，市场法则似乎已经像物理法则一样实实在在，牢不可破。当你无法再忍受“理智地”活下去的时候，你只能去尝试一些不可能的事情。而有时，这竟然成功了：这是因为我们为此孤注一掷，更因为我们一直以来被欺骗了——其实一切皆有可能。\n驱使着反叛者的激情一如他们所采用的破坏性战术那般多种多样。对于公司来说，他们是能让事先准备好的应对方案统统变成废纸的对手。反叛者的行为无法预测，他们不断挑战极限，他们潜袭是为了更好的未来。",
+    "color": "FF4500",
+    "is_mini": false,
+    "side_codename": "runner"
+  },
+  {
+    "codename": "apex",
+    "oracle_name": "Apex",
+    "locale_name": "尖峰",
+    "oracle_desc": "",
+    "locale_desc": "",
+    "color": "8C4847",
+    "is_mini": true,
+    "side_codename": "runner"
+  },
+  {
+    "codename": "criminal",
+    "oracle_name": "Criminal",
+    "locale_name": "逆法者",
+    "oracle_desc": "Some runners have learned that the only way to get ahead in the system is to step outside it.\nThese Criminals know better than to draw attention to their exploits, and so they work in the shadows, sneaking their way into corporate accounts, or they blend in, pretending to be a trusted friend in order to obtain credentials that they definitely should not have. Crims run because it is profitable, whether it be by siphoning funds or selling corporate secrets to the highest bidder.\nAs long as there is a profit to be made from running, Criminals will continue to run.",
+    "locale_desc": "一些潜袭者发现，唯一能在体制内出人头地的方法就是绕过体制本身。\n这些逆法者知道引起别人的注意并非明智之举，因此他们隐藏踪迹，偷偷潜入公司帐户，或是混入人群，假装自己是一位可信的朋友，以获得他们不应拥有的权限。逆法者潜袭是因为有利可图，无论是通过吸走资金还是通过将公司机密卖给最高出价者。\n只要还有办法从潜袭中获利，逆法者就会继续潜袭。",
+    "color": "4169E1",
+    "is_mini": false,
+    "side_codename": "runner"
+  },
+  {
+    "codename": "haas_bioroid",
+    "oracle_name": "Haas-Bioroid",
+    "locale_name": "哈斯生化",
+    "oracle_desc": "The world leader in cybernetics and artificial intelligence, Haas-Bioroid is most recognized for their eponymous bioroids, cybernetic androids powered by brain-taping technology. The process has become so advanced that these anthropomorphic “labor solutions” almost seem human. Almost.\nThe availability of bioroids has changed the worlds forever. Corporations and the wealthy race to replace their workers, leaving the lower classes fighting for scraps. But bioroids also exceed human capabilities: they can work in conditions that no human can withstand. The synthetic athletes from HB’s Sportsmetal division showcase their faster reflexes, agility, and strength for a popular audience. Brain scans also work in the digital realm. Using the same software as bioroid brains, HB has created ice that can learn, adapt, and outsmart intruders.\nBeyond bioroids, HB’s patents on neural channeling and cybernetics grant them dominance in the fields of prosthetic design and industrial manufacturing. They undercut the competition with inhuman efficiency and precision engineering on both Earth and Luna.",
+    "locale_desc": "哈斯生化在义体与人工智能方面世界领先，其最知名的产品便是与公司同名的生化人——即由义体构成、由脑录技术驱动的安卓机器人。制造生化人的流程已经先进到这些类人型的“劳动力解决方案”外表与人类几乎无异。几乎。\n生化人的出现永久地改变了世界。 公司和富人争先恐后地替换掉手下的劳工，工薪阶级纷纷失业。不但如此，生化人还能超越人类的身体能力，可以在人类无法承受的恶劣条件下工作。哈斯生化金技体育分部的人造运动员，向大众展示了生化人优秀的反应速度、敏捷与力量。脑扫描图在网络空间同样可以使用。哈斯生化使用与生化人大脑相同的软件，制造出了能够自学习、自适应、智取入侵者的防火墙。\n除生化人外，哈斯生化在神经元通道与义体方面的专利，使其在义肢设计与工业制造领域也占据着主导地位。 依靠超人的效率与精密工程，他们无论在地球还是月球都能保持价格优势。",
+    "color": "8A2BE2",
+    "is_mini": false,
+    "side_codename": "corp"
+  },
+  {
+    "codename": "jinteki",
+    "oracle_name": "Jinteki",
+    "locale_name": "人间会社",
+    "oracle_desc": "Life is code, and code is mutable. Jinteki’s biotech empire demonstrates this in everything from medtech to bioweapons. They are best known for their monopoly on clone production, competing with Haas-Bioroid by pushing aggressively into labor markets with specialized, gengineered clones. Rumor has it that they take desired traits from animal genetics, but Jinteki has refused to reveal their trade secrets.\nAnd Jinteki takes their secrets very seriously. Although they seldom deign to dirty their hands with wetwork operations, they have no problem setting up traps for an unsuspecting Runner and rezzing dangerous ice. Another criminal fried by their own rig is a tragedy, but not a liability.\nRunners tell stories about their runs against Jinteki, being thwarted at every turn, as if someone could anticipate their every move. It is alleged that Jinteki uses their clone projects to research the potential of human psionic ability, but serious scientists dismiss these claims.\nJinteki remains silent on the matter.",
+    "locale_desc": "生命是代码，而代码是可以改变的。从医学科技到生化武器，人间会社的生物科技帝国处处都在诠释着这一点。人间会社最为人知的一点是其对于克隆体生产的垄断：通过在劳动力市场上积极推出经过基因工程特制的克隆体，人间会社得以成为哈斯生化的竞争对手。坊间传言称人间会社会从动物基因组中提取想要的特性，但他们拒绝公开其商业秘密。\n对人间会社来说，保守秘密绝非儿戏。尽管他们很少会主动去做一些见不得人的脏活，但他们在为没有戒备的潜袭者设下陷阱、激活危险的防火墙时从不心慈手软。又一个逆法者被自己的设备炸死是一桩悲剧事件，但绝不是刑事案件。\n潜袭者常常讲述自己对人间会社进行潜袭的故事：处处都会遇到阻碍，仿佛有人能够预知自己的一举一动。有人说人间会社利用其克隆体项目来研究人类灵能的潜力，但严肃的科学家认为这种说法并不成立。\n人间会社对此不置可否。",
+    "color": "DC143C",
+    "is_mini": false,
+    "side_codename": "corp"
+  },
+  {
+    "codename": "nbn",
+    "oracle_name": "NBN",
+    "locale_name": "网际传媒",
+    "oracle_desc": "NBN is the world’s largest news and entertainment conglomerate. No matter what you do, you do it through NBN. It’s where you get your news from, where you find information. It’s how you talk to your friends. It’s what you watch, what you play. NBN’s Augmented Reality spaces are all that stand between you and the harsh reality of lunar living. It even educates your children. This generates vast amounts of data, which is sold to generate vast amounts of revenue. Through these platforms NBN has rendered itself indispensable for life not only on Earth, but beyond it.\nBut NBN’s greatest claim to power is so ubiquitous it becomes invisible: all public network traffic goes through them. Meddling with their media stranglehold is a dangerous game – you may find your bank account emptied, your healthcare void, your level 73 Warlock suddenly deleted. But that’s fine, right? After all, how could you live without them?",
+    "locale_desc": "网际传媒是全世界最大的新闻与娱乐集团。无论你要做什么，都得通过网际传媒。它是你获取新闻的媒介，是你检索信息的平台，也是你与好友聊天的渠道。它是你所看的、所玩的内容。网际传媒的增强现实空间，是将你与月球恶劣的生活环境隔开来的唯一屏障。甚至就连孩子的教育也离不开网际传媒。这一切产生了海量的数据，销售这些数据又产生了海量的利润。通过这些平台，网际传媒已经确立了自身对全球生活乃至地外生活都不可或缺的地位。\n但网际传媒能获得如此的地位，其最大的原因却是一件无处不在以至于难以察觉的东西：那就是所有的公网流量都要经过网际传媒。想挑战他们对媒体的控制是一场危险的游戏——你可能会发现自己的银行帐户被清空、医保失效、73级的术士号突然被注销。 但这不也挺好吗？ 毕竟，生活怎么能没有网际传媒呢？",
+    "color": "FF8C00",
+    "is_mini": false,
+    "side_codename": "corp"
+  },
+  {
+    "codename": "neutral_corp",
+    "oracle_name": "Neutral Corp",
+    "locale_name": "中立公司",
+    "oracle_desc": "",
+    "locale_desc": "",
+    "color": "808080",
+    "is_mini": false,
+    "side_codename": "corp"
+  },
+  {
+    "codename": "neutral_runner",
+    "oracle_name": "Neutral Runner",
+    "locale_name": "中立潜袭者",
+    "oracle_desc": "",
+    "locale_desc": "",
+    "color": "808080",
+    "is_mini": false,
+    "side_codename": "runner"
+  },
+  {
+    "codename": "shaper",
+    "oracle_name": "Shaper",
+    "locale_name": "塑造者",
+    "oracle_desc": "Shapers run.\nThey don’t run for money, they don’t run for change. They run because they can. They run for fame, for notoriety, for fun. They run because, to them, it is the purest form of self-expression. It’s a challenge, to tinker together the perfect program, to find the most efficient solution to their problems. Though it may take some time for them to find the correct solution, once they do they can crack any server. The contents of the server don’t matter.\nAll that matters is the run.",
+    "locale_desc": "塑造者进行潜袭。\n他们潜袭不是为了金钱，也不是为了改变。他们潜袭，只因他们能做得到。他们潜袭是为了出名，为了乐趣。他们潜袭，是因为对他们来说，潜袭是自我表现的最纯粹的形式。潜袭是一项挑战，如何调校出最完美的程序，如何找到问题最高效的解决方案。尽管他们可能要花上一些时间才能找到最优解，可一旦成功，他们便能够攻破任何服务器。 至于服务器的内容，那并不重要。\n重要的是潜袭本身。",
+    "color": "32CD32",
+    "is_mini": false,
+    "side_codename": "runner"
+  },
+  {
+    "codename": "sunny_lebeau",
+    "oracle_name": "Sunny Lebeau",
+    "locale_name": "桑妮·勒博",
+    "oracle_desc": "",
+    "locale_desc": "",
+    "color": "786196",
+    "is_mini": true,
+    "side_codename": "runner"
+  },
+  {
+    "codename": "weyland_consortium",
+    "oracle_name": "Weyland Consortium",
+    "locale_name": "威兰财团",
+    "oracle_desc": "Money is power. Power is money. Nobody knows the extent of Weyland Consortium’s control, but they always make a profit. The world’s largest conglomerate, they own—visibly, and invisibly—hundreds of megacorps. Banking, security, arms, mining, construction—all are within their remit. No matter the situation, Weyland comes out on top.\nRising beyond the Earth’s atmosphere, the Space Elevator known as “The Beanstalk” has enabled Weyland’s influence to extend beyond the global, to the orbital, the lunar. The future of humanity is in the stars and Weyland will stop at nothing to get there.\nEnemies of the Consortium, and there are many, rarely last long. Buildings collapse. Drone strikes go awry. Bodies are found with bullets in their heads. Yet the blame is never theirs, because they were never there. Black ops agents and PR teams ensure that. They exist in the shadows, pulling the strings to ensure their vision of the world is never compromised.",
+    "locale_desc": "金钱即权力，权力即金钱。没有人知道威兰财团的掌控范围到底有多大，但他们一直在从中获利。作为全世界最大的企业集团，威兰财团旗下——在有形与无形中——拥有着上百家巨型公司。银行、安保、军火、采矿、建造，无一不在他们的管辖范围之内。无论什么情况下，威兰财团都能拔得头筹。\n名为“豆茎”的太空电梯高耸入云，直达大气层之外，将威兰财团的影响力从全球带到了太空轨道以及月球。人类的征途是星辰大海，而威兰财团将会不惜一切代价达到这一目标。\n与财团为敌的人，尽管为数众多，却往往活不长久。楼房倒塌、无人机误伤、头部中弹的尸体……然而责任从来都不是威兰财团的，因为他们从来都不在现场：执行黑色行动的特工与威兰的公关团队会确保这一点。威兰财团永远居于幕后，操纵着时局，以确保他们对世界的愿景永远不受动摇。",
+    "color": "006400",
+    "is_mini": false,
+    "side_codename": "corp"
+  }
+]
