@@ -1,0 +1,13 @@
+__version__ = "0.1.0"
+__author__ = "Eric03742 <eric03742@foxmail.com>"
+__description__ = "《矩阵潜袭》卡牌数据转换/处理/合并工具"
+
+
+__all__ = [
+    "save_side",
+    "save_faction"
+]
+
+
+from .side import save_side
+from .faction import save_faction

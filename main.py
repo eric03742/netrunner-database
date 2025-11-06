@@ -1,5 +1,9 @@
+from transformer import save_side, save_faction
+
+
 def main():
-    print("Hello from netrunner-database!")
+    save_side()
+    save_faction()
 
 
 if __name__ == "__main__":

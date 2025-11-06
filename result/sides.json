@@ -1,0 +1,12 @@
+[
+  {
+    "codename": "corp",
+    "oracle_name": "Corp",
+    "locale_name": "公司"
+  },
+  {
+    "codename": "runner",
+    "oracle_name": "Runner",
+    "locale_name": "潜袭者"
+  }
+]
