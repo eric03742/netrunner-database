@@ -12,6 +12,7 @@ def main():
     save_format()
     save_snapshot()
     save_pool()
+    save_restrictions()
 
 
 if __name__ == "__main__":

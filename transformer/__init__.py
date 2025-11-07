@@ -14,6 +14,7 @@ __all__ = [
     "save_format",
     "save_snapshot",
     "save_pool",
+    "save_restrictions",
 ]
 
 
@@ -26,3 +27,4 @@ from .cycle import save_cycle
 from .set import save_set
 from .format import save_format, save_snapshot
 from .pool import save_pool
+from .restriction import save_restrictions
