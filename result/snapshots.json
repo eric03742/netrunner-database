@@ -1,0 +1,482 @@
+[
+  {
+    "codename": "eternal_0",
+    "start_date": "2017-10-01",
+    "format_codename": "eternal",
+    "restriction_codename": "",
+    "pool_codename": "eternal",
+    "active": false
+  },
+  {
+    "codename": "eternal_1",
+    "start_date": "2021-07-10",
+    "format_codename": "eternal",
+    "restriction_codename": "eternal_points_list_1_0",
+    "pool_codename": "eternal",
+    "active": false
+  },
+  {
+    "codename": "eternal_2",
+    "start_date": "2021-11-12",
+    "format_codename": "eternal",
+    "restriction_codename": "eternal_points_list_21_11",
+    "pool_codename": "eternal",
+    "active": false
+  },
+  {
+    "codename": "eternal_3",
+    "start_date": "2022-09-26",
+    "format_codename": "eternal",
+    "restriction_codename": "eternal_points_list_22_09",
+    "pool_codename": "eternal",
+    "active": false
+  },
+  {
+    "codename": "eternal_4",
+    "start_date": "2023-03-31",
+    "format_codename": "eternal",
+    "restriction_codename": "eternal_points_list_23_03",
+    "pool_codename": "eternal",
+    "active": false
+  },
+  {
+    "codename": "eternal_5",
+    "start_date": "2023-12-08",
+    "format_codename": "eternal",
+    "restriction_codename": "eternal_points_list_23_11",
+    "pool_codename": "eternal",
+    "active": false
+  },
+  {
+    "codename": "eternal_6",
+    "start_date": "2025-04-04",
+    "format_codename": "eternal",
+    "restriction_codename": "eternal_points_list_25_04",
+    "pool_codename": "eternal",
+    "active": false
+  },
+  {
+    "codename": "eternal_7",
+    "start_date": "2025-07-31",
+    "format_codename": "eternal",
+    "restriction_codename": "eternal_points_list_25_07",
+    "pool_codename": "eternal",
+    "active": true
+  },
+  {
+    "codename": "ram_0",
+    "start_date": "2021-12-07",
+    "format_codename": "ram",
+    "restriction_codename": "",
+    "pool_codename": "ram_0",
+    "active": false
+  },
+  {
+    "codename": "ram_1",
+    "start_date": "2021-12-18",
+    "format_codename": "ram",
+    "restriction_codename": "",
+    "pool_codename": "ram_1",
+    "active": false
+  },
+  {
+    "codename": "ram_2",
+    "start_date": "2022-01-01",
+    "format_codename": "ram",
+    "restriction_codename": "",
+    "pool_codename": "ram_2",
+    "active": false
+  },
+  {
+    "codename": "ram_3",
+    "start_date": "2022-01-15",
+    "format_codename": "ram",
+    "restriction_codename": "",
+    "pool_codename": "ram_3",
+    "active": false
+  },
+  {
+    "codename": "ram_4",
+    "start_date": "2022-01-29",
+    "format_codename": "ram",
+    "restriction_codename": "",
+    "pool_codename": "ram_4",
+    "active": false
+  },
+  {
+    "codename": "ram_5",
+    "start_date": "2022-02-12",
+    "format_codename": "ram",
+    "restriction_codename": "",
+    "pool_codename": "ram_5",
+    "active": false
+  },
+  {
+    "codename": "ram_6",
+    "start_date": "2022-02-26",
+    "format_codename": "ram",
+    "restriction_codename": "",
+    "pool_codename": "ram_6",
+    "active": false
+  },
+  {
+    "codename": "ram_7",
+    "start_date": "2022-11-12",
+    "format_codename": "ram",
+    "restriction_codename": "",
+    "pool_codename": "ram_7",
+    "active": true
+  },
+  {
+    "codename": "snapshot_0",
+    "start_date": "2018-11-16",
+    "format_codename": "snapshot",
+    "restriction_codename": "snapshot_ban_list_1_0",
+    "pool_codename": "snapshot",
+    "active": true
+  },
+  {
+    "codename": "standard_0",
+    "start_date": "2012-09-06",
+    "format_codename": "standard",
+    "restriction_codename": "",
+    "pool_codename": "pre_rotation",
+    "active": false
+  },
+  {
+    "codename": "standard_1",
+    "start_date": "2016-02-01",
+    "format_codename": "standard",
+    "restriction_codename": "napd_mwl_1_0",
+    "pool_codename": "pre_rotation",
+    "active": false
+  },
+  {
+    "codename": "standard_2",
+    "start_date": "2016-08-01",
+    "format_codename": "standard",
+    "restriction_codename": "napd_mwl_1_1",
+    "pool_codename": "pre_rotation",
+    "active": false
+  },
+  {
+    "codename": "standard_3",
+    "start_date": "2017-04-12",
+    "format_codename": "standard",
+    "restriction_codename": "napd_mwl_1_2",
+    "pool_codename": "pre_rotation",
+    "active": false
+  },
+  {
+    "codename": "standard_4",
+    "start_date": "2017-10-01",
+    "format_codename": "standard",
+    "restriction_codename": "napd_mwl_2_0",
+    "pool_codename": "rotation_2017",
+    "active": false
+  },
+  {
+    "codename": "standard_5",
+    "start_date": "2018-02-26",
+    "format_codename": "standard",
+    "restriction_codename": "napd_mwl_2_1",
+    "pool_codename": "rotation_2017",
+    "active": false
+  },
+  {
+    "codename": "standard_6",
+    "start_date": "2018-09-06",
+    "format_codename": "standard",
+    "restriction_codename": "napd_mwl_2_2",
+    "pool_codename": "rotation_2017",
+    "active": false
+  },
+  {
+    "codename": "standard_7",
+    "start_date": "2018-12-21",
+    "format_codename": "standard",
+    "restriction_codename": "standard_mwl_3_0",
+    "pool_codename": "rotation_2018",
+    "active": false
+  },
+  {
+    "codename": "standard_8",
+    "start_date": "2019-02-22",
+    "format_codename": "standard",
+    "restriction_codename": "standard_mwl_3_1",
+    "pool_codename": "rotation_2018",
+    "active": false
+  },
+  {
+    "codename": "standard_9",
+    "start_date": "2019-05-10",
+    "format_codename": "standard",
+    "restriction_codename": "standard_mwl_3_2",
+    "pool_codename": "rotation_2018",
+    "active": false
+  },
+  {
+    "codename": "standard_10",
+    "start_date": "2019-07-19",
+    "format_codename": "standard",
+    "restriction_codename": "standard_mwl_3_3",
+    "pool_codename": "rotation_2018",
+    "active": false
+  },
+  {
+    "codename": "standard_11",
+    "start_date": "2019-09-20",
+    "format_codename": "standard",
+    "restriction_codename": "standard_mwl_3_4",
+    "pool_codename": "rotation_2018",
+    "active": false
+  },
+  {
+    "codename": "standard_12",
+    "start_date": "2019-12-27",
+    "format_codename": "standard",
+    "restriction_codename": "standard_mwl_3_4",
+    "pool_codename": "rotation_2019",
+    "active": false
+  },
+  {
+    "codename": "standard_13",
+    "start_date": "2019-12-31",
+    "format_codename": "standard",
+    "restriction_codename": "standard_mwl_3_4_b",
+    "pool_codename": "rotation_2019",
+    "active": false
+  },
+  {
+    "codename": "standard_14",
+    "start_date": "2020-06-26",
+    "format_codename": "standard",
+    "restriction_codename": "standard_ban_list_20_06",
+    "pool_codename": "rotation_2019",
+    "active": false
+  },
+  {
+    "codename": "standard_15",
+    "start_date": "2020-09-25",
+    "format_codename": "standard",
+    "restriction_codename": "standard_ban_list_20_09",
+    "pool_codename": "rotation_2019",
+    "active": false
+  },
+  {
+    "codename": "standard_16",
+    "start_date": "2020-12-18",
+    "format_codename": "standard",
+    "restriction_codename": "standard_ban_list_20_09",
+    "pool_codename": "rotation_2020",
+    "active": false
+  },
+  {
+    "codename": "standard_17",
+    "start_date": "2021-04-09",
+    "format_codename": "standard",
+    "restriction_codename": "standard_ban_list_21_04",
+    "pool_codename": "rotation_2021",
+    "active": false
+  },
+  {
+    "codename": "standard_18",
+    "start_date": "2021-05-01",
+    "format_codename": "standard",
+    "restriction_codename": "standard_ban_list_21_05",
+    "pool_codename": "rotation_2021",
+    "active": false
+  },
+  {
+    "codename": "standard_19",
+    "start_date": "2021-06-19",
+    "format_codename": "standard",
+    "restriction_codename": "standard_ban_list_21_06",
+    "pool_codename": "rotation_2021",
+    "active": false
+  },
+  {
+    "codename": "standard_20",
+    "start_date": "2021-10-29",
+    "format_codename": "standard",
+    "restriction_codename": "standard_ban_list_21_10",
+    "pool_codename": "rotation_2021",
+    "active": false
+  },
+  {
+    "codename": "standard_21",
+    "start_date": "2022-08-05",
+    "format_codename": "standard",
+    "restriction_codename": "standard_ban_list_22_08",
+    "pool_codename": "rotation_2022",
+    "active": false
+  },
+  {
+    "codename": "standard_22",
+    "start_date": "2022-09-23",
+    "format_codename": "standard",
+    "restriction_codename": "standard_ban_list_22_09",
+    "pool_codename": "rotation_2022",
+    "active": false
+  },
+  {
+    "codename": "standard_23",
+    "start_date": "2023-03-03",
+    "format_codename": "standard",
+    "restriction_codename": "standard_ban_list_23_03",
+    "pool_codename": "rotation_2022",
+    "active": false
+  },
+  {
+    "codename": "standard_24",
+    "start_date": "2023-08-11",
+    "format_codename": "standard",
+    "restriction_codename": "standard_ban_list_23_08",
+    "pool_codename": "rotation_2023",
+    "active": false
+  },
+  {
+    "codename": "standard_25",
+    "start_date": "2023-09-22",
+    "format_codename": "standard",
+    "restriction_codename": "standard_ban_list_23_09",
+    "pool_codename": "rotation_2023",
+    "active": false
+  },
+  {
+    "codename": "standard_26",
+    "start_date": "2024-03-30",
+    "format_codename": "standard",
+    "restriction_codename": "standard_ban_list_24_03",
+    "pool_codename": "rotation_2023",
+    "active": false
+  },
+  {
+    "codename": "standard_27",
+    "start_date": "2024-05-31",
+    "format_codename": "standard",
+    "restriction_codename": "standard_ban_list_24_05",
+    "pool_codename": "rotation_2023",
+    "active": false
+  },
+  {
+    "codename": "standard_28",
+    "start_date": "2024-09-13",
+    "format_codename": "standard",
+    "restriction_codename": "standard_ban_list_24_09",
+    "pool_codename": "rotation_2023",
+    "active": false
+  },
+  {
+    "codename": "sunset_01",
+    "start_date": "2023-09-21",
+    "format_codename": "standard",
+    "restriction_codename": "sunset_ban_list_24_01",
+    "pool_codename": "rotation_2023",
+    "active": false
+  },
+  {
+    "codename": "standard_29",
+    "start_date": "2024-12-26",
+    "format_codename": "standard",
+    "restriction_codename": "standard_ban_list_24_12",
+    "pool_codename": "rotation_2023",
+    "active": false
+  },
+  {
+    "codename": "standard_30",
+    "start_date": "2024-04-24",
+    "format_codename": "standard",
+    "restriction_codename": "standard_ban_list_25_04",
+    "pool_codename": "rotation_2025",
+    "active": false
+  },
+  {
+    "codename": "standard_31",
+    "start_date": "2024-08-01",
+    "format_codename": "standard",
+    "restriction_codename": "standard_ban_list_25_08",
+    "pool_codename": "rotation_2025",
+    "active": true
+  },
+  {
+    "codename": "standard_32",
+    "start_date": "2024-10-03",
+    "format_codename": "standard",
+    "restriction_codename": "standard_ban_list_25_10",
+    "pool_codename": "rotation_2025",
+    "active": false
+  },
+  {
+    "codename": "startup_0",
+    "start_date": "2019-03-18",
+    "format_codename": "startup",
+    "restriction_codename": "",
+    "pool_codename": "startup_ashes",
+    "active": false
+  },
+  {
+    "codename": "startup_1",
+    "start_date": "2022-03-04",
+    "format_codename": "startup",
+    "restriction_codename": "",
+    "pool_codename": "startup_ashes_plus",
+    "active": false
+  },
+  {
+    "codename": "startup_2",
+    "start_date": "2022-07-22",
+    "format_codename": "startup",
+    "restriction_codename": "",
+    "pool_codename": "startup_ashes_plus_midnight_sun",
+    "active": false
+  },
+  {
+    "codename": "startup_3",
+    "start_date": "2022-12-09",
+    "format_codename": "startup",
+    "restriction_codename": "",
+    "pool_codename": "startup_borealis",
+    "active": false
+  },
+  {
+    "codename": "startup_4",
+    "start_date": "2023-08-11",
+    "format_codename": "startup",
+    "restriction_codename": "",
+    "pool_codename": "startup_borealis_plus_the_automata_initiative",
+    "active": false
+  },
+  {
+    "codename": "startup_5",
+    "start_date": "2024-01-19",
+    "format_codename": "startup",
+    "restriction_codename": "startup_ban_list_24_01",
+    "pool_codename": "startup_borealis_plus_the_automata_initiative",
+    "active": false
+  },
+  {
+    "codename": "startup_6",
+    "start_date": "2024-03-30",
+    "format_codename": "startup",
+    "restriction_codename": "startup_ban_list_24_09",
+    "pool_codename": "startup_liberation",
+    "active": false
+  },
+  {
+    "codename": "startup_7",
+    "start_date": "2024-04-24",
+    "format_codename": "startup",
+    "restriction_codename": "startup_balance_update_25_04",
+    "pool_codename": "startup_elevation",
+    "active": true
+  },
+  {
+    "codename": "system_gateway_0",
+    "start_date": "2021-04-09",
+    "format_codename": "system_gateway",
+    "restriction_codename": "",
+    "pool_codename": "system_gateway",
+    "active": true
+  }
+]

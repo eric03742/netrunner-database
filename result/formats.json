@@ -1,0 +1,32 @@
+[
+  {
+    "codename": "eternal",
+    "oracle_name": "Eternal",
+    "locale_name": "永恒"
+  },
+  {
+    "codename": "ram",
+    "oracle_name": "Random Access Memories",
+    "locale_name": "RAM"
+  },
+  {
+    "codename": "snapshot",
+    "oracle_name": "Snapshot",
+    "locale_name": "快照"
+  },
+  {
+    "codename": "standard",
+    "oracle_name": "Standard",
+    "locale_name": "标准"
+  },
+  {
+    "codename": "startup",
+    "oracle_name": "Startup",
+    "locale_name": "新启"
+  },
+  {
+    "codename": "system_gateway",
+    "oracle_name": "System Gateway",
+    "locale_name": "核心网关"
+  }
+]

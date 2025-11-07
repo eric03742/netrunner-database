@@ -9,6 +9,8 @@ def main():
     save_settype()
     save_cycle()
     save_set()
+    save_format()
+    save_snapshot()
 
 
 if __name__ == "__main__":
