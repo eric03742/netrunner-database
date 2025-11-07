@@ -13,6 +13,7 @@ def main():
     save_snapshot()
     save_pool()
     save_restrictions()
+    save_ruling()
 
 
 if __name__ == "__main__":
