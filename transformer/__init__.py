@@ -13,6 +13,7 @@ __all__ = [
     "save_set",
     "save_format",
     "save_snapshot",
+    "save_pool",
 ]
 
 
@@ -24,3 +25,4 @@ from .settype import save_settype
 from .cycle import save_cycle
 from .set import save_set
 from .format import save_format, save_snapshot
+from .pool import save_pool

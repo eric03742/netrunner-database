@@ -66,7 +66,6 @@ class ResultFormat(ResultBase):
     """赛制中文名称"""
 
 
-oracle_validator = TypeAdapter(list[OracleFormat])
 locale_validator = TypeAdapter(list[LocaleFormat])
 result_format_validator = TypeAdapter(list[ResultFormat])
 result_snapshot_validator = TypeAdapter(list[ResultSnapshot])
@@ -81,8 +80,8 @@ RESULT_SNAPSHOT_FILE = "result/snapshots.json"
 def load_oracle() -> list[OracleFormat]:
     result: list[OracleFormat] = list()
     filenames = sorted(os.listdir(ORACLE_FILE))
-    for f in filenames:
-        fullname = os.path.join(ORACLE_FILE, f)
+    for filename in filenames:
+        fullname = os.path.join(ORACLE_FILE, filename)
         with open(fullname, "r", encoding="utf-8") as file:
             text = file.read()
             entry = OracleFormat.model_validate_json(text, strict=True)

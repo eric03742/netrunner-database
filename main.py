@@ -11,6 +11,7 @@ def main():
     save_set()
     save_format()
     save_snapshot()
+    save_pool()
 
 
 if __name__ == "__main__":
