@@ -112,7 +112,7 @@ class OracleModel(OracleBase):
     """卡牌读音（英文音标）"""
 
     narrative_text: str = ""
-    """卡图背景文字"""
+    """卡牌背景文字"""
 
 
 class LocaleModel(LocaleBase):
@@ -206,14 +206,17 @@ class ResultModel(ResultBase):
     pronouns: str = ""
     """卡牌人称代词"""
 
-    pronunciation_ipa: str = ""
+    pronunciation_ipa: str
     """卡牌读音（国际音标）"""
 
-    pronunciation_approx: str = ""
+    pronunciation_approx: str
     """卡牌读音（英文音标）"""
 
     extra_face: int
     """卡牌额外牌面数"""
+
+    oracle_narrative: str
+    """卡牌英文背景文字"""
 
 
 oracle_validator = TypeAdapter(list[OracleModel])
@@ -297,6 +300,7 @@ def load_result() -> list[ResultModel]:
             pronunciation_ipa=oracle.pronunciation_ipa,
             pronunciation_approx=oracle.pronunciation_approx,
             extra_face=len(oracle.faces),
+            oracle_narrative=oracle.narrative_text
         )
 
         results.append(result)
