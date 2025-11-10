@@ -263,12 +263,17 @@ def load_result() -> list[ResultModel]:
             raise Exception(f"ID = {oracle.id}：缺少中文数据!")
 
         oracle_text = oracle.text
+        stripped_text = oracle.stripped_text
         if len(oracle.faces) > 0:
             for face in oracle.faces:
-                face_type = "<strong>Back:</strong> " if (oracle.layout_id == "flip") else "<strong>Side:</strong> "
-                face_title = face.title if (len(face.title) > 0) else oracle.title
+                face_type = "<strong>Back:</strong> " if oracle.layout_id == "flip" else "<strong>Side:</strong> "
+                face_stripped_type = "Back: " if oracle.layout_id == "flip" else "Side: "
+                face_title = face.title if len(face.title) > 0 else oracle.title
+                face_stripped_title = face.stripped_title if len(face.stripped_title) > 0 else oracle.stripped_title
                 face_text = face.text
+                face_stripped_text = face.stripped_text
                 oracle_text = oracle_text + f"\n{face_type}{face_title}\n{face_text}"
+                stripped_text = stripped_text + f"\n{face_stripped_type}{face_stripped_title}\n{face_stripped_text}"
 
         result = ResultModel(
             codename=oracle.id,
@@ -277,7 +282,7 @@ def load_result() -> list[ResultModel]:
             stripped_title=oracle.stripped_title,
             oracle_text=oracle_text,
             locale_text=locale.text,
-            stripped_text=oracle.stripped_text,
+            stripped_text=stripped_text,
             type_codename=oracle.card_type_id,
             subtype_codenames=oracle.subtypes.copy(),
             side_codename=oracle.side_id,

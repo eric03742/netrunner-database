@@ -15859,7 +15859,7 @@
     "stripped_title": "Dewi Subrotoputri: Pedagogical Dhalang",
     "oracle_text": "Whenever you make a successful run, if your [mu] is full, you may flip this identity and gain 1[credit].\n<strong>Back:</strong> Dewi Subrotoputri: Shadow Guide\nWhenever you make a successful run, if you have at least 1 unused [mu], you may flip this identity and draw 1 card.",
     "locale_text": "每当你进行一次成功的潜袭时，如果你没有剩余的[mu]，你可以将本特性翻面并获得1[credit]。\n<strong>翻面</strong> 德薇·苏布罗托普特里：暗影引路人\n每当你进行一次成功的潜袭时，如果你有至少1个剩余的[mu]，你可以将本特性翻面并抽1张卡牌。",
-    "stripped_text": "Whenever you make a successful run, if your  mu is full, you may flip this identity and gain 1 credit.",
+    "stripped_text": "Whenever you make a successful run, if your  mu is full, you may flip this identity and gain 1 credit.\nBack: Dewi Subrotoputri: Shadow Guide\nWhenever you make a successful run, if you have at least 1 unused  mu, you may flip this identity and draw 1 card.",
     "type_codename": "runner_identity",
     "subtype_codenames": [
       "natural"
@@ -17647,7 +17647,7 @@
     "stripped_title": "Earth Station: SEA Headquarters",
     "oracle_text": "Limit 1 remote server.\nAs an additional cost to run HQ, the Runner must pay 1[credit].\n<strong>[click]:</strong> Flip this identity.\n<strong>Back:</strong> Earth Station: Ascending to Orbit\nLimit 1 remote server.\nAs an additional cost to run a remote server, the Runner must pay 6[credit].\nWhen the Runner makes a successful run on HQ, flip this identity.",
     "locale_text": "限制1台远程服务器。\n作为潜袭总部的额外费用，潜袭者必须支付1[credit]。\n[click]<strong>：</strong>将本特性翻面。\n<strong>翻面</strong> 地球站：升入空轨 \n限制1台远程服务器。\n作为潜袭远程服务器的额外费用，潜袭者必须支付6[credit]。\n当潜袭者对总部进行一次成功的潜袭时，将本特性翻面。",
-    "stripped_text": "Limit 1 remote server. As an additional cost to run HQ, the Runner must pay 1 credit. click: Flip this identity.",
+    "stripped_text": "Limit 1 remote server. As an additional cost to run HQ, the Runner must pay 1 credit. click: Flip this identity.\nBack: Earth Station: Ascending to Orbit\nLimit 1 remote server. As an additional cost to run a remote server, the Runner must pay 6 credits. When the Runner makes a successful run on HQ, flip this identity.",
     "type_codename": "corp_identity",
     "subtype_codenames": [
       "division"
@@ -27344,7 +27344,7 @@
     "stripped_title": "Hoshiko Shiro: Untold Protagonist",
     "oracle_text": "When your turn ends, if you accessed a card this turn, gain 2[credit] and flip this identity.\n<strong>Back:</strong> Hoshiko Shiro: Mahou Shoujo\nWhen your turn begins, draw 1 card and lose 1[credit].\nWhen your turn ends, if you did not access any cards this turn, flip this identity.",
     "locale_text": "当你的回合结束时，如果你本回合读取过卡牌，获得2[credit]并将本特性翻面。\n<strong>翻面</strong> 白 星子：魔法少女\n当你的回合开始时，抽1张卡牌并失去1[credit]。当你的回合结束时，如果你本回合没有读取过卡牌，将本特性翻面。",
-    "stripped_text": "When your turn ends, if you accessed a card this turn, gain 2 credits and flip this identity.",
+    "stripped_text": "When your turn ends, if you accessed a card this turn, gain 2 credits and flip this identity.\nBack: Hoshiko Shiro: Mahou Shoujo\nWhen your turn begins, draw 1 card and lose 1 credit. When your turn ends, if you did not access any cards this turn, flip this identity.",
     "type_codename": "runner_identity",
     "subtype_codenames": [
       "natural"
@@ -30989,7 +30989,7 @@
     "stripped_title": "Jinteki Biotech: Life Imagined",
     "oracle_text": "Before taking your first turn, you may switch this identity with any copy of Jinteki Biotech.\n<strong>[click][click][click]:</strong> Flip this identity.\n<strong>Side:</strong> The Brewery: Jinteki Biotech\nWhen you flip this identity, do 2 net damage.\n<strong>Side:</strong> The Tank: Jinteki Biotech\nWhen you flip this identity, shuffle all cards in Archives into R&D.\n<strong>Side:</strong> The Greenhouse: Jinteki Biotech\nWhen you flip this identity, place 4 advancement counters on 1 installed card that you can advance.",
     "locale_text": "在你开始第一个回合前，你可以将本卡牌与任意一张人间生物科技互换。\n[click]，[click]，[click]：将本特性翻转。\n<strong>牌面</strong> 酿坊：人间生物科技\n当你翻转本特性时，造成2点网域伤害。\n<strong>牌面</strong> 温室：人间生物科技\n当你翻转本特性时，放置4枚推进标记到一张能被推进的卡牌上。\n<strong>牌面</strong> 智库：人间生物科技\n当你翻转本特性时，将档案库洗入研发中心。",
-    "stripped_text": "Before taking your first turn, you may switch this identity with any copy of Jinteki Biotech. click click click: Flip this identity.",
+    "stripped_text": "Before taking your first turn, you may switch this identity with any copy of Jinteki Biotech. click click click: Flip this identity.\nSide: The Brewery: Jinteki Biotech\nWhen you flip this identity, do 2 net damage.\nSide: The Tank: Jinteki Biotech\nWhen you flip this identity, shuffle all cards in Archives into R&D.\nSide: The Greenhouse: Jinteki Biotech\nWhen you flip this identity, place 4 advancement counters on 1 installed card that you can advance.",
     "type_codename": "corp_identity",
     "subtype_codenames": [
       "division"
@@ -40248,7 +40248,7 @@
     "stripped_title": "Nebula Talent Management: Making Stars",
     "oracle_text": "When your action phase ends, if you played an operation this turn, gain 1[credit] and flip this identity.\n<strong>Back:</strong> Gemilang Arena: Burning Bright\nThe first time each turn you play an operation, gain [click].\nWhen the Runner makes a successful run on HQ or R&D, flip this identity.",
     "locale_text": "当你的行动阶段结束时，如果你本回合打出过事务，获得1[credit]并将本特性翻面。\n<strong>翻面</strong> 辉煌舞台：熠熠生辉\n每回合你第一次打出一个事务时，获得[click]。\n当潜袭者对总部或研发中心进行一次成功的潜袭时，将本特性翻面。",
-    "stripped_text": "When your action phase ends, if you played an operation this turn, gain 1 credit and flip this identity.",
+    "stripped_text": "When your action phase ends, if you played an operation this turn, gain 1 credit and flip this identity.\nBack: Gemilang Arena: Burning Bright\nThe first time each turn you play an operation, gain click. When the Runner makes a successful run on HQ or R&D, flip this identity.",
     "type_codename": "corp_identity",
     "subtype_codenames": [
       "division"
@@ -58436,7 +58436,7 @@
     "stripped_title": "SYNC: Everything, Everywhere",
     "oracle_text": "[click]: Flip this identity.\nThe Runner pays 1[credit] more when spending a [click] to remove a tag (not through a card ability).\n<strong>Back:</strong> SYNC: Everything, Everywhere\n[click]: Flip this identity.\nYou may pay 2[credit] fewer when spending a [click] to trash a resource (not through a card ability).",
     "locale_text": "[click]：将本特性翻转。\n潜袭者花费[click]（不通过卡牌能力）来移除1枚锁定标记时多支付1[credit]。\n<strong>翻面</strong> 信网同步：随事随地\n[click]：将本特性翻转。\n你花费[click]（不通过卡牌能力）来销毁一个资源时少支付2[credit]。",
-    "stripped_text": "click: Flip this identity. The Runner pays 1 credit more when spending a click to remove a tag (not through a card ability).",
+    "stripped_text": "click: Flip this identity. The Runner pays 1 credit more when spending a click to remove a tag (not through a card ability).\nBack: SYNC: Everything, Everywhere\nclick: Flip this identity. You may pay 2 credits fewer when spending a click to trash a resource (not through a card ability).",
     "type_codename": "corp_identity",
     "subtype_codenames": [
       "division"
