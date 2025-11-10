@@ -14,6 +14,7 @@ def main():
     save_pool()
     save_restrictions()
     save_ruling()
+    save_card()
 
 
 if __name__ == "__main__":
