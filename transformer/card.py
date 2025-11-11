@@ -6,6 +6,8 @@ from .base import OracleBase, LocaleBase, ResultBase
 
 
 class OracleCardFace(BaseModel):
+    """英文「卡牌」卡面子类型数据结构"""
+
     model_config = ConfigDict(strict=True, frozen=True, extra="forbid")
 
     title: str = ""
@@ -219,7 +221,6 @@ class ResultModel(ResultBase):
     """卡牌英文背景文字"""
 
 
-oracle_validator = TypeAdapter(list[OracleModel])
 locale_validator = TypeAdapter(list[LocaleModel])
 result_validator = TypeAdapter(list[ResultModel])
 

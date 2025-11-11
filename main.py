@@ -15,6 +15,7 @@ def main():
     save_restrictions()
     save_ruling()
     save_card()
+    save_printing()
 
 
 if __name__ == "__main__":
