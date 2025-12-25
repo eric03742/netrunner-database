@@ -1,6 +1,3 @@
-[submodule "source/zh"]
-	path = source/zh
-	url = https://github.com/eric03742/netrunner-card-text-Chinese.git
 [submodule "source/en"]
 	path = source/en
 	url = https://github.com/Null-Signal-Games/netrunner-cards-json.git
