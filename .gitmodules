@@ -1,3 +1,6 @@
 [submodule "source/zhCN"]
 	path = source/zhCN
 	url = https://github.com/Sneakdoor-BETA/netrunner-card-text-zhCN.git
+[submodule "source/enUS"]
+	path = source/enUS
+	url = https://github.com/Null-Signal-Games/netrunner-cards-json.git
