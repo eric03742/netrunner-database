@@ -71,7 +71,7 @@ class ResultModel(ResultBase):
 result_validator = TypeAdapter(list[ResultModel])
 
 
-ORACLE_FILE = "source/en/v2/restrictions"
+ORACLE_FILE = "source/enUS/v2/restrictions"
 RESULT_FILE = "result/restrictions.json"
 
 

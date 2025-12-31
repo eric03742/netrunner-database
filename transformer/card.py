@@ -146,9 +146,6 @@ class ResultModel(ResultBase):
     """卡牌中文文本"""
 
     stripped_text: str
-    """卡牌文本（ASCII）"""
-
-    stripped_text: str
     """卡牌英文文本（ASCII）"""
 
     type_codename: str
@@ -225,8 +222,8 @@ locale_validator = TypeAdapter(list[LocaleModel])
 result_validator = TypeAdapter(list[ResultModel])
 
 
-ORACLE_FILE = "source/en/v2/cards"
-LOCALE_FILE = "source/zh/data/json/cards.json"
+ORACLE_FILE = "source/enUS/v2/cards"
+LOCALE_FILE = "source/zhCN/data/json/cards.json"
 RESULT_FILE = "result/cards.json"
 
 

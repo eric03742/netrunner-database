@@ -1406,6 +1406,44 @@
     "banned_subtype_codenames": []
   },
   {
+    "codename": "standard_ban_list_25_12",
+    "oracle_name": "Standard Ban List 25.12",
+    "format_codename": "standard",
+    "start_date": "2025-12-01",
+    "banned_card_codenames": [
+      "bellona",
+      "bukhgalter",
+      "cayambe_grid",
+      "cleaver",
+      "cyberdex_sandbox",
+      "cybersand_harvester",
+      "daily_casts",
+      "deep_dive",
+      "dr_vientiane_keeling",
+      "drago_ivanov",
+      "dreamnet",
+      "endurance",
+      "engram_flush",
+      "false_lead",
+      "gold_farmer",
+      "info_bounty",
+      "k2cp_turbine",
+      "matryoshka",
+      "moshing",
+      "nanisivik_grid",
+      "nbn_reality_plus",
+      "project_vacheron",
+      "rezeki",
+      "sting",
+      "touch_ups",
+      "tributary",
+      "trick_shot",
+      "tsakhia_bankhar_gantulga",
+      "world_tree"
+    ],
+    "banned_subtype_codenames": []
+  },
+  {
     "codename": "standard_mwl_3_0",
     "oracle_name": "Standard MWL 3.0",
     "format_codename": "standard",
@@ -1615,6 +1653,21 @@
     "banned_subtype_codenames": []
   },
   {
+    "codename": "startup_balance_update_25_11_for_classic_only",
+    "oracle_name": "Startup Balance Update 25.11 (ignore active date)",
+    "format_codename": "standard",
+    "start_date": "2025-05-05",
+    "banned_card_codenames": [
+      "cleaver",
+      "coalescence",
+      "nbn_reality_plus",
+      "pharos",
+      "s_dobrado",
+      "tributary"
+    ],
+    "banned_subtype_codenames": []
+  },
+  {
     "codename": "startup_ban_list_24_01_for_classic_only",
     "oracle_name": "Startup Ban List 24.01 (ignore active date)",
     "format_codename": "standard",
@@ -1722,6 +1775,21 @@
       "cleaver",
       "nbn_reality_plus",
       "pharos",
+      "tributary"
+    ],
+    "banned_subtype_codenames": []
+  },
+  {
+    "codename": "startup_balance_update_25_11",
+    "oracle_name": "Startup Balance Update 25.11",
+    "format_codename": "standard",
+    "start_date": "2025-11-03",
+    "banned_card_codenames": [
+      "cleaver",
+      "coalescence",
+      "nbn_reality_plus",
+      "pharos",
+      "s_dobrado",
       "tributary"
     ],
     "banned_subtype_codenames": []

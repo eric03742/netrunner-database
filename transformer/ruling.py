@@ -54,7 +54,7 @@ oracle_validator = TypeAdapter(list[OracleModel])
 result_validator = TypeAdapter(list[ResultModel])
 
 
-ORACLE_FILE = "source/en/v2/rulings"
+ORACLE_FILE = "source/enUS/v2/rulings"
 RESULT_FILE = "result/rulings.json"
 
 

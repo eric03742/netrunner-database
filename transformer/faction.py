@@ -62,8 +62,8 @@ locale_validator = TypeAdapter(list[LocaleModel])
 result_validator = TypeAdapter(list[ResultModel])
 
 
-ORACLE_FILE = "source/en/v2/factions.json"
-LOCALE_FILE = "source/zh/data/json/factions.json"
+ORACLE_FILE = "source/enUS/v2/factions.json"
+LOCALE_FILE = "source/zhCN/data/json/factions.json"
 RESULT_FILE = "result/factions.json"
 
 

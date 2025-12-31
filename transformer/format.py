@@ -71,8 +71,8 @@ result_format_validator = TypeAdapter(list[ResultFormat])
 result_snapshot_validator = TypeAdapter(list[ResultSnapshot])
 
 
-ORACLE_FILE = "source/en/v2/formats/"
-LOCALE_FILE = "source/zh/data/json/formats.json"
+ORACLE_FILE = "source/enUS/v2/formats/"
+LOCALE_FILE = "source/zhCN/data/json/formats.json"
 RESULT_FORMAT_FILE = "result/formats.json"
 RESULT_SNAPSHOT_FILE = "result/snapshots.json"
 
